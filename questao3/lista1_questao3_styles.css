@@ -4,6 +4,15 @@ body{
     background-color: rgb(163, 144, 144);
 }
 
+div{
+    display: flex;
+    justify-content: center;
+}
+
+figcaption{
+    text-decoration: underline;
+}
+
 .table{
     background-color: whitesmoke;
     color: rgb(0, 0, 0);
