@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    font-family: arial;
+    text-decoration: underline;
+}
+
+p{
+    font-family: arial;
+    font-size: 15px;
+}
+
+.spam{
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 18px;
+}
+
+table{
+    background-color: rgb(205, 235, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+}
+
+th{
+    text-decoration: underline;
+    background-color: rgb(218, 218, 218);
+}
+
+#elemento{
+    font-weight: bold;
+    
+}
+
+.tableleg{
+    text-align: center;
+}
