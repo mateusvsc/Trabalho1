@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: rgb(163, 144, 144);
+}
+
+.table{
+    background-color: whitesmoke;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+}
+
+#cabeçalho{
+    font-weight: bold;
+    font-family: 'arial black';
+    font-size: 20px;
+}
+
+.aspecto{
+    font-family: 'arial black';
+    font-size: 15px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;    
+}
+
+p{    
+    text-align: center;
+    font-family: arial;
+    font-size: 18px;
+    margin-left: 186px;
+    margin-right: 200px;
+}
+
+#destaque{
+    font-weight: bold;
+    text-decoration: underline;
+}
