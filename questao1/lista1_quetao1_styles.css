@@ -1,15 +1,41 @@
 body{
-    background-color: #000000;
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'arial black';
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+figure{
+    text-align: center;
+}
+
+figcaption{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.bandeira{
+    color: rgb(34, 37, 204);
 }
 
 p{
-    color: rgb(220, 88, 253);
+    color: rgb(58, 1, 1);
     font-family: verdana;
-    font-size: medium;
+    font-size: 15px;
 }
 
 .pais{
-    color: rgb(0, 255, 0);
+    color: rgb(34, 37, 204);
     font-family: arial;
     font-weight: bold;
 }
