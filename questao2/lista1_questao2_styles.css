@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    text-align: center;   
+}
+
+p{
+    color: rgb(29, 0, 56);
+    font-family: times;
+    font-size: 20px;
+}
+
+.link{
+    font-family: 'times new roman';
+    font-weight: bold;
+    color: rgb(119, 0, 255);
+    text-decoration: italic;
+}
